@@ -1,7 +1,7 @@
 ![MasterHead](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9953&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9953" /> </p>
