@@ -1,4 +1,4 @@
-![MasterHead](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
+![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 🐱‍👤, I'm Sumit</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
